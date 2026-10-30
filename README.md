@@ -91,3 +91,9 @@ My Contribution
 I worked on the final part of the project: the star schema design and ETL documentation, the SQL implementation, the OLAP analysis of the business questions, the dashboard and key insights, and the recommendations and lessons learned.
 
 Repository Contents
+airport-data-warehouse/
+├── README.md
+├── report/        # project report (PDF)
+├── sql/           # table creation and analysis queries
+└── images/        # star schema and dashboard screenshots
+
