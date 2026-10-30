@@ -101,6 +101,4 @@ I worked on the final part of the project: the star schema design and ETL docume
 airport-data-warehouse/
 ├── README.md
 ├── report/        # project report (PDF)
-├── sql/           # table creation and analysis queries
-└── images/        # star schema and dashboard screenshots
 ```
