@@ -27,7 +27,6 @@ One fact table connected to three dimension tables:
 - `DIM_AIRPORT`: Airport_ID (PK), IATA_CODE, AIRPORT, CITY, STATE, COUNTRY, LATITUDE, LONGITUDE
 - `DIM_DATE`: Date_ID (PK), year, month, Activity_Period
 
-![Star Schema](images/star-schema.png)
 
 ## ETL Process
 
@@ -62,7 +61,6 @@ GROUP BY ap.AIRPORT;
 
 Four visualizations: total flights by airline, total passengers by airport, average delay by airline, and monthly passenger activity.
 
-![Dashboard](images/dashboard.png)
 
 ## Key Insights
 
